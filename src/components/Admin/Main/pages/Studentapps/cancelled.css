@@ -1,0 +1,78 @@
+/* cancellationForm.css */
+
+/* Body styles */
+body {
+    background-color: #f0f0f0;
+  }
+  
+  /* Container styles */
+  .result-containerr {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header styles */
+  .result-containerr h1 {
+    color: #123252;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Image styles */
+  .img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  /* Form styles */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-label {
+    color: #123252;
+    font-size: 18px;
+  }
+  
+  /* Button styles */
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px 16px;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+  }
+  
+  /* Additional Notes styles */
+  .text-muted {
+    font-size: 14px;
+    color: #123252;
+  }
+  
+  .text-muted ul {
+    padding-left: 20px;
+  }
+  
+  /* Confirmation Card styles */
+  .confirmation-card {
+    margin-top: 20px;
+  }
+  
+  .confirmation-card p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .alert-success {
+    margin-top: 20px;
+  }
+  
